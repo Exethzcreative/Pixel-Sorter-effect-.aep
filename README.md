@@ -10,3 +10,4 @@ HOW TO USE:
 4. Feel free buat otak-atik sendiri.
 
 Terima kasih udah download pixel sorter saya. akhir kata terima kasih.
+Pixel sorter adalah suatu efek untuk mengedit visual effek di video kalian.
